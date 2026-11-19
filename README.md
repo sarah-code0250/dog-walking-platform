@@ -8,6 +8,7 @@ A web platform through which owners can schedule walks for their dogs and connec
 ### Exercise 1: Dog Registration
 
 **Technologies:**
+
 Python developed in Visual Studio Code
 
 **Description:**  
