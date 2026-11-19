@@ -1,11 +1,14 @@
 # Dog Walking Platform
 
-## Project Overview
-A web platform designed to connect dog owners with dog walkers.
+## Project purpose
+A web platform through which owners can schedule walks for their dogs and connect with dog walkers
 
-## Learning Progress
+## Excercises
 
 ### Exercise 1: Dog Registration
+
+**Technologies:** 
+Python developed in Visual Studio Code
 
 **Description:**  
 A Python program that allows users to register multiple dogs and display their information.
